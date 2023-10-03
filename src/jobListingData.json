@@ -1,0 +1,64 @@
+{
+    "job_listings": [ 
+        {
+            "companyName": "Great Eastern",
+            "roleName": "Lead Big Data Engineer",
+            "jobType": "Data Eng",
+            "timestamp": "",
+            "location": "Singapore",
+            "minIncome": "1,636",
+            "maxIncome": "7,636",
+            "techstacks": [
+                "Informatica", "MariaDB", "AWS", "Analytics"
+            ]
+        },
+        {
+            "companyName": "Great Eastern",
+            "roleName": "Back End Engineer",
+            "jobType": "Data Sci",
+            "timestamp": "",
+            "location": "Thailand",
+            "minIncome": "1,636",
+            "maxIncome": "7,636",
+            "techstacks": [
+                "Informatica", "MariaDB", "AWS", "Analytics"
+            ]
+        },
+        {
+            "companyName": "Great Eastern",
+            "roleName": "Senior Software Engineer",
+            "jobType": "Data Eng",
+            "timestamp": "",
+            "location": "Malaysia",
+            "minIncome": "1,636",
+            "maxIncome": "7,636",
+            "techstacks": [
+                "Informatica", "MariaDB", "AWS", "Analytics"
+            ]
+        },
+        {
+            "companyName": "Great Eastern",
+            "roleName": "Front End Engineer",
+            "jobType": "Data Sci",
+            "timestamp": "",
+            "location": "Thailand",
+            "minIncome": "1,636",
+            "maxIncome": "7,636",
+            "techstacks": [
+                "Informatica", "MariaDB", "AWS", "Analytics"
+            ]
+        },
+        {
+            "companyName": "Great Eastern",
+            "roleName": "Data Analytics",
+            "jobType": "Data Sci",
+            "timestamp": "",
+            "location": "Thailand",
+            "minIncome": "1,636",
+            "maxIncome": "7,636",
+            "techstacks": [
+                "Informatica", "MariaDB", "AWS", "Analytics"
+            ]
+        }
+    ]
+}
